@@ -2,4 +2,8 @@
 
 # Your Name
 
+Franklin Pu
+
 # Your Github username
+
+CodingFranklin
